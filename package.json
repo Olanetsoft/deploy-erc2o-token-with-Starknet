@@ -1,0 +1,21 @@
+{
+  "name": "deploy-erc20-token-with-starknet",
+  "version": "1.0.0",
+  "description": "Deploying ERC-20 token with StarkNet ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Starknet",
+    "Javascript",
+    "blockchain"
+  ],
+  "author": "Idris Olubisi",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "starknet": "^4.4.2"
+  },
+  "type": "module"
+}
